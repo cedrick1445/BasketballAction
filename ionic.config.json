@@ -1,0 +1,7 @@
+{
+  "name": "BasketballActionv2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
